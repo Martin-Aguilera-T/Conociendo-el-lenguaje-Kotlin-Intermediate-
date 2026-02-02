@@ -1,4 +1,4 @@
-Ejercicio 1
+// Ejercicio 1
 fun fetchData(callback: StringBuilder.() -> Unit) {
     val builder = StringBuilder("Data received")
     builder.callback()
@@ -13,7 +13,7 @@ fun main() {
     }
 }
 
-Ejercicio 2
+// Ejercicio 2
 class Button {
     fun onEvent(action: ButtonEvent.() -> Unit) {
         // Simulate a double-click event (not a right-click)
@@ -44,7 +44,7 @@ fun main() {
     }
 }
 
-Ejercicio 3
+// Ejercicio 3
 fun List<Int>.incremented(): List<Int> {
     val originalList = this
     return buildList {
