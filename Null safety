@@ -1,3 +1,5 @@
+//  Previene errores comunes como el NullPointerException, haciendo las aplicaciones más estables.
+
 // Ejercicio 1
 data class User(val name: String?)
 
