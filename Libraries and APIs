@@ -1,3 +1,6 @@
+// Permiten aprovechar código ya existente y conectar tu 
+// aplicación con servicios externos de manera eficiente.
+
 // Ejercicio 1
 import kotlin.math.*
 
