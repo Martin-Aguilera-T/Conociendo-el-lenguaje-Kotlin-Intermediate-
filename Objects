@@ -1,3 +1,5 @@
+// Facilitan la creación de instancias únicas y el manejo de lógica compartida.
+
 // Ejercicio 1
 interface Order {
     val orderId: String
