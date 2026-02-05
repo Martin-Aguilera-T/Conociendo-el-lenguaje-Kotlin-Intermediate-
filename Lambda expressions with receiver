@@ -1,3 +1,6 @@
+// Permiten escribir código más expresivo y tipo DSL, 
+// reduciendo repetición y mejorando la legibilidad.
+
 // Ejercicio 1
 fun fetchData(callback: StringBuilder.() -> Unit) {
     val builder = StringBuilder("Data received")
