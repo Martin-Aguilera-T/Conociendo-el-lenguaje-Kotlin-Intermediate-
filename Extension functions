@@ -1,3 +1,7 @@
+// Te permiten añadir funcionalidades a 
+// clases existentes sin modificar su código original, 
+// haciendo el código más limpio.
+
 //Ejercicio 1
 fun Int.isPositive(): Boolean=this>0
 
