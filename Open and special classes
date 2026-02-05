@@ -1,3 +1,6 @@
+// Controlan la herencia y el comportamiento de las clases, 
+// ayudando a diseñar arquitecturas más seguras.
+
 // Ejercicio 1
 sealed class DeliveryStatus {
     data class Pending(val sender: String) : DeliveryStatus()
