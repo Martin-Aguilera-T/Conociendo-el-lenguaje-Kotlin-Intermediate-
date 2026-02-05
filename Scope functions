@@ -1,3 +1,5 @@
+// Ayudan a organizar el código y trabajar con objetos de forma más clara.
+
 // Ejercicio 1
 data class ProductInfo(val priceInDollars: Double?)
 
