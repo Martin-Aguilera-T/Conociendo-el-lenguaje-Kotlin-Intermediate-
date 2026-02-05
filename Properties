@@ -1,3 +1,5 @@
+// Simplifican el acceso y manejo de datos dentro de las clases de forma clara y segura.
+
 // Ejercicio 1
 fun findOutOfStockBooks(inventory: List<Int>): List<Int> = buildList {
     for (index in inventory.indices) {
